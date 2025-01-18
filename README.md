@@ -1,2 +1,5 @@
-# indice_proyectos
-Indica el índice de proyectos
+# **Indice de Proyectos**
+## Proyectos Web
+## Proyectos IA
+- ### **Flappy Bird para aprendizaje por refuerzo**
+
